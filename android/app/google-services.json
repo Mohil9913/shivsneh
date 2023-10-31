@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "886924055019",
+    "project_id": "shivshen-ed596",
+    "storage_bucket": "shivshen-ed596.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:886924055019:android:95579b10f9d288fcb289ae",
+        "android_client_info": {
+          "package_name": "com.example.shivsneh"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGzbEhwzBLGSHrcX5cyiG4QMdtFnaYFGU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
