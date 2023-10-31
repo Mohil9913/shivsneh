@@ -1,6 +1,8 @@
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:firebase_auth/firebase_auth.dart';
+import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
+import 'package:shivsneh/model/product.dart';
 import 'package:shivsneh/screens/other/address_screen.dart';
 import 'package:shivsneh/widgets/app_bar.dart';
 import 'package:shivsneh/widgets/bottom_navbar.dart';
@@ -49,15 +51,14 @@ class _OtpVerificationScreen extends State<OtpVerificationScreen> {
           setState(() {
             _isLoading = false;
           });
+          userPhoneNumber = widget.number;
           if (documentSnapshot.exists) {
-            print('$number is in database!!!');
             Navigator.of(context).pushReplacement(
               MaterialPageRoute(
                 builder: (ctx) => const BottomNavbar(),
               ),
             );
           } else {
-            print('$number is NOT in database!!!');
             Navigator.of(context).pushReplacement(
               MaterialPageRoute(
                 builder: (ctx) => AddressScreen(phoneNumber: number),
@@ -154,7 +155,7 @@ class _OtpVerificationScreen extends State<OtpVerificationScreen> {
             const SizedBox(
               height: 25,
             ),
-            if (_isLoading) const CircularProgressIndicator(),
+            if (_isLoading) const CupertinoActivityIndicator(),
             if (!_isLoading)
               SizedBox(
                 width: 180,

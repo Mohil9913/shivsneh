@@ -1,4 +1,5 @@
 import 'package:firebase_auth/firebase_auth.dart';
+import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:shivsneh/screens/auth/otp_verification_screen.dart';
 import 'package:shivsneh/widgets/app_bar.dart';
@@ -166,7 +167,7 @@ class _PhoneNumberVerificationState extends State<PhoneNumberVerification> {
             const SizedBox(
               height: 25,
             ),
-            if (_isLoading) const CircularProgressIndicator(),
+            if (_isLoading) const CupertinoActivityIndicator(),
             if (!_isLoading)
               Row(
                 mainAxisAlignment: MainAxisAlignment.center,
