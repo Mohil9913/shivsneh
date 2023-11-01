@@ -1,5 +1,5 @@
 
-![Logo](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQOhAxTXbZnOXInVlPzqWovu4f619Izea6Bo2pf6R55-rKr4YdS8Lh7p-HAnUtvTQyMslwewMUNSvParHffRSZ_F0wbXxs2Xnf8q2HjwrllTCqik7PxWH3m-TZMn0J8xPbx4QPyLDzgwtqNQRvf9wQrx6ii0QsqCSlvEaqirHei8TsABOMW9jALq7QDbA/s733/ShivSneh%20Logo.png)
+![Logo](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEik3WlcrT5flk-s4SrizLV2czsHfhOfpIU0LBmI4q9vOtVhZPI7bXjGyIXu5CBxJ6NM-7BnPdT7c4DHF-d3yb6suyA7rNwgDbZq-8HdBmDjktAu9PGj9jL5y63Be-Fp7fItKZUiOHIdWO89ffI-9gz-t7mrdxg4brZTzhs5GiNRjqf9ztcgmPBQdLITYAA/s1280/Banner%20(Github%20Project%20Banner).png)
 
 
 # ShivSneh (Mobile Application)
@@ -16,20 +16,11 @@
 
 ## #Screenshots 📷
 
-![App Screenshot](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjL14iaZX3aaW98bOsOFj9mAgFlm57ivOYvsmm7dJlPMkeoZpos0DROQhp_uiZb6co4yrIaKcD4LcxyfbwQ-48vpHDXYJts68o585NvG1LrGAsWH3M-B_gSJpdztV4WPe2kKpiyH1F5kUXs5ncnrq81vU7zzngzG6EymekOx-63uwL7maxMDY6Z6yAwwgg/s1200/1.jpg)
+![App Screenshot](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1ePm_c2nf6PCSudDuVZajP_oXgmzx7UbS7A-aIZLi41yLPTl9-MupVwiRGbn3xhGM6U4NyGvwVaEBzRJ_VEyo2IFTyebcpNay8Uik-a9852hEs4n4lGswYCmybWGtyTwhjT3nNajkw7kYcwS1H_B7tOvngwjLc3foRxlVXHH7GsyfN2t-j5oKt9gzUhs/s1280/SS1.png)
 
-![2](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0nsA8MzCIDfyTneQdjuicbzFjEovmFVodYMNSOsWG4ewAf9vLaOGm_iuwkSmJiAD8vUE3V4V51Adt0L3j2mi06-BycrYOIholfp4RNQ6jQu1R8tcpp1EFG4upSVsZkUEotNzbpTldq1OinLdh877_eCWCm_VoH3Jfhh9PTmm3_j5vSZ1sut5OkegdCxY/s1200/5.jpg)
+![2](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPMNC0m_NJinGAgWwdJUrcJkkyGVPsvHQlg1arO5W6wv4eRDS8noh1VfislAVfAKRUz0VUWeHzJGLY79wrNK-hZY-kjPkPbnk-yZlLXPVM0QQuSBNsQvZaxSYKozO0uTT7QCsYcebMB81K1WDjB9eiYkttTYA4GwSKHDLnyzgyiyVA5q7s_0lbR9SEFOw/s1280/SS2.png)
 
-![3](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiipWfm7k5zGmk50xyDlFEqi90KHAHvmeojkepgS5WA53XBc_ogp890LRPjwfyRoXESD1FnIC8pUvxTqPftcJiYIqlhOsUr6E7ZZFYWQ9aWOMQm9C2Pfb_Q5JlEx3Iz5Mw1bi5uOBS3ZWOkKbonyL1ukjg8LmcNlGJGTIBxnN6C1uDg7jeUVYr6Qyv-oUw/s1200/6.jpg)
-
-![4](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhK5lbM08sxQZn0YvPb3mw0ciHMPP8T96Q7taD1-Mqyyrw29WnUIAo0ijMnoqQrjvgXz10CgwU29aNnni5rMYfkVegOqZflM6zrhXWaNSUPyySoR1lru2bJXfphPXU6ri2dTZuTa9FK5HysKZGy0ygPn4bXAugfwezdm3gHyGqi5N62RNZ_6i5QOEH0WwY/s1200/7.jpg)
-
-![5](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjm9OERIY-E_hzXWPdbqgSuRVD1Dihle8-ZBu_AprIxfidhZyxaHTJ7wc1-LRU6qrYNzv2Nbq3AA0iSBrAQ4cRfl3on9T_y3JjUZj53D6u34m2iEah20pNpvviEy9OEmFSZI-f-o67LyVfFdukyCe_Us9Ok3QksKiZfiGyBfWXk4wzTdb7-03E1Q9iy-A4/s1200/8.jpg)
-
-![6](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSrsoU0lOFu9RI_3SwL8v5enP6ygXWhoOsj_GC6cu5lJtEC7ZWrZ7yK1RUybyB6QmR7JmuTdtPC4NCNUpC2OCkGALh-fyRnF7AgkB8q9dfkGTKZrGXTQKoRr9FxZvyapIroEEV1KHVvYt3yUVRVnJXFl8E5A7Prpa3af8OfB_q9p0H7XifE1-QU2wk64k/s1200/9.jpg)
-
-![7](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixRr6WpWUvh1RCIwZ4eAqJpd2xFhBTtxeBx-jUrYAJB8vYVSjoRKJbqQFedTT-dGDhVRRx8HgfXTKMMuaK8Tk271zRyngRJ2yHt-OmRtPtvtGw7BzSTNarvptpnS8K1pvSKA8EG5fZD1FMxWMi1FfENFwywQGziqtpXuVZz8HFxnso7cIGX80V4D-4b_Q/s1200/12.jpg)
-
+![3](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhw5Z4wMZpae0SpMmdA8sUVjHAGMeqAOvbevruhQkfS-toEILX5GkBH4xetTZ5yQqTZmfkunQmsOwwr03ZjMh3wtJy12ZLiQ4XmCIktWBy5dYsaxLvGDFA4brSJ4ItJYmZUGGoMcak7SmeG3428u-YdWgIhz887dBHNvfX37FWWSUctnL7V1T36Hym64II/s1280/SS3.png)
 
 ## #Installation 📲
 
